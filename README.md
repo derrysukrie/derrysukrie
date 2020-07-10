@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Woobiz
+- 🔭 I’m currently working at Woobiz
 - 🌱 I’m currently learning NextJS with Typescript, lil bit React Native too 
 - 📫 How to reach me: derrysukrie@gmail.com
 - 😄 Pronouns: Derry
