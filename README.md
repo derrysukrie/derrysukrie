@@ -46,7 +46,6 @@ I'm a **Frontend Engineer & React Native Developer** passionate about building s
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/derrysukrie)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derrysukrie)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/derrsuk)
 
 ---
 
