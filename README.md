@@ -12,7 +12,6 @@ I'm a **Frontend Engineer & React Native Developer** passionate about building s
 - 🔧 Optimizing performance and maintainability in **React** projects.
 
 ### 🛠 Tech Stack  
-### 🛠 Tech Stack  
 
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
