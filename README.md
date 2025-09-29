@@ -7,7 +7,7 @@ I'm a **Frontend Engineer & React Native Developer** passionate about building s
 ---
 
 ### 🚀 What I'm Working On
-- 🏗 Migrating a **WordPress** website to **Astro**.
+- 🏗 Creating design systems with Storybook.
 - 📱 Developing scalable **EdTech applications**.
 - 🔧 Optimizing performance and maintainability in **React** projects.
 
